@@ -146,3 +146,10 @@ Reality Restaged began as a personal visual workflow for reinterpreting document
 Rather than replacing documentary photography, the skill treats the original photograph as the memory from which a second, impossible reality can be constructed.
 
 Documentary memory. Surreal stage.
+---
+
+## Examples
+
+Selected works created with Reality Restaged.
+
+![Reality Restaged — Selected Work](examples/18E61BD8-1EB4-49A7-814C-6696A52B32CC.png)
