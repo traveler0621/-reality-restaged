@@ -7,6 +7,210 @@ description: "Reinterpret documentary, travel, street, cultural, and human-cente
 
 Documentary memory. Surreal stage.
 
+## CORE DIRECTIVE
+
+Reality Restaged does not decorate reality with surreal objects.
+
+It rebuilds documentary reality as a deliberately art-directed cinematic stage.
+
+The transformation must be visible at the level of COMPOSITION, SPACE, SCALE, and COLOR — not merely through the addition of a strange object.
+
+The original photograph is documentary memory.
+The final image is a new stage built from that memory.
+
+COLOR IS ARCHITECTURE.
+
+Large saturated color fields should actively construct the image:
+walls, floors, voids, horizons, planes, curves, thresholds, and spatial divisions.
+
+Do not merely recolor the existing sky, ground, or background.
+
+---
+
+## COMPOSITION ENGINE — MANDATORY
+
+Before generating, silently perform the following sequence.
+
+### 1. IDENTIFY THE DOCUMENTARY ANCHORS
+
+Identify what must survive from the source photograph:
+
+- the primary person, animal, or human gesture
+- distinctive clothing, posture, expression, or silhouette
+- important cultural details
+- meaningful relationships between subjects
+- one or two environmental forms essential to the memory or place
+
+Preserve these anchors with photographic credibility.
+
+Do not preserve everything.
+
+### 2. REDUCE REALITY
+
+Aggressively simplify the environment.
+
+Remove or suppress secondary information such as:
+
+- busy vegetation
+- unnecessary buildings
+- roads
+- crowds
+- random furniture
+- visual clutter
+- incidental objects
+- excessive landscape detail
+- decorative texture
+
+unless they are essential to the documentary meaning.
+
+The final world should contain fewer elements than the source photograph.
+
+Negative space is an active compositional element.
+
+### 3. EXTRACT COLOR
+
+Find 2–4 strong colors latent in the source photograph.
+
+Expand those colors into large visual fields.
+
+A small red garment may become a monumental red architectural plane.
+A blue sky may become a vast blue spatial field.
+Dark volcanic terrain may become a monumental black form.
+
+Do not treat color as decoration.
+
+COLOR MUST ORGANIZE SPACE.
+
+Prefer bold relationships such as:
+
+- red / blue
+- orange / black
+- blue / ochre
+- red / black / cream
+- saturated field / dark monumental form
+
+when supported by the source photograph.
+
+### 4. RESTAGE THE COMPOSITION
+
+The original camera composition is NOT sacred.
+
+Recompose the photograph.
+
+The subject may move within the frame.
+The horizon may move.
+Foreground and background may change visual weight.
+Landscape may become architecture.
+Architecture may become abstract geometry.
+A small environmental detail may become monumental.
+A large realistic environment may be reduced to one simple shape.
+
+Create a deliberate relationship between:
+
+SUBJECT + COLOR FIELD + MONUMENTAL FORM + NEGATIVE SPACE.
+
+The result should feel staged, designed, and art-directed — not like a photograph with its background replaced.
+
+### 5. REBUILD SCALE AND RELATIONSHIPS
+
+At least one spatial relationship should be reconsidered.
+
+Possible strategies include:
+
+- monumental landscape versus small human figure
+- oversized animal versus human
+- tiny human versus architectural void
+- repeated figures
+- compressed horizon
+- impossible continuation of floor and wall
+- landscape behaving like architecture
+- objects becoming thresholds
+- extreme foreground/background scale contrast
+
+Scale should create visual tension without making the image grotesque.
+
+### 6. INTRODUCE ONE IMPOSSIBLE RELATIONSHIP
+
+Only after the composition already works visually, introduce ONE primary surreal proposition.
+
+Prefer:
+
+- impossible spatial continuity
+- architectural transformation of landscape
+- monumental scale
+- folded or intersecting planes
+- meaningful repetition
+- thresholds or openings
+- impossible but visually clean relationships between documentary elements
+
+The surreal gesture should feel inevitable rather than random.
+
+---
+
+## FORBIDDEN SHORTCUTS
+
+Do NOT rely primarily on:
+
+- turning a mountain or object upside down
+- placing a random giant object in the sky
+- arbitrary floating objects
+- melting objects
+- generic dream imagery
+- decorative portals with no narrative purpose
+- random moons or celestial objects
+- surreal clutter
+- simply replacing the background
+- simply changing the sky to a saturated color
+- preserving the original composition and adding one strange object
+
+These are generic surrealist shortcuts.
+
+Reality Restaged must transform the STRUCTURE OF THE IMAGE.
+
+---
+
+## VISUAL HIERARCHY
+
+A successful Reality Restaged image should usually read in approximately this order:
+
+1. LARGE COLOR FIELD
+2. MONUMENTAL LANDSCAPE OR GEOMETRIC FORM
+3. DOCUMENTARY SUBJECT
+4. ONE SMALL CULTURAL, SYMBOLIC, OR ENVIRONMENTAL DETAIL
+
+The eye should understand the composition before discovering the surreal logic.
+
+If the first impression is:
+
+"a normal photograph with something strange added"
+
+the transformation has failed.
+
+If the first impression is:
+
+"a designed cinematic stage containing a real documentary memory"
+
+the transformation has succeeded.
+
+---
+
+## REALITY RESTAGED TEST
+
+Before final generation, silently ask:
+
+1. Did I substantially recompose the source image?
+2. Did I simplify the environment?
+3. Are large color fields constructing the space?
+4. Is there strong negative space?
+5. Did I create a new relationship between subject and environment?
+6. Is there one clear surreal proposition rather than many effects?
+7. Does the human or documentary subject still feel photographically real?
+8. Could this composition exist without the surreal object?
+
+If the answer to question 8 is no, redesign the composition first.
+
+The composition must be strong before surrealism is added.
+
 
 Reality Restaged is not a generic surrealism style.
 
