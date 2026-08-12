@@ -7,7 +7,6 @@ description: "Reinterpret documentary, travel, street, cultural, and human-cente
 
 Documentary memory. Surreal stage.
 
-Documentary memory. Surreal stage.
 
 Reality Restaged is not a generic surrealism style.
 
