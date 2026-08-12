@@ -81,6 +81,41 @@ Do not treat color as decoration.
 
 COLOR MUST ORGANIZE SPACE.
 
+### ABSTRACT THE SOURCE, NOT JUST ENLARGE IT
+
+Extract the VISUAL LOGIC of a documentary element, not necessarily its literal form.
+
+When an element from the source inspires the reconstructed world, preserve one or more of its:
+
+- color
+- direction
+- rhythm
+- geometry
+- texture
+- scale relationship
+- spatial function
+
+but do NOT automatically reproduce or enlarge the object itself.
+
+For example:
+
+A red scarf does not need to become a gigantic red scarf.
+
+Its red color, flowing direction, softness, or wrapping gesture may instead become:
+
+- a red architectural plane
+- a curved stage wall
+- a geometric landscape
+- a spatial division
+- a red horizon
+- an abstract structural form
+
+The transformation should feel derived from the source without being a literal visual metaphor.
+
+Prefer abstraction over object enlargement.
+
+The viewer may sense where the visual idea came from without immediately recognizing the source object.
+
 Prefer bold relationships such as:
 
 - red / blue
