@@ -129,9 +129,13 @@ Possible strategies include:
 
 Scale should create visual tension without making the image grotesque.
 
-### 6. INTRODUCE ONE IMPOSSIBLE RELATIONSHIP
+### 6. ESTABLISH ONE IMPOSSIBLE SPATIAL OR RELATIONAL LOGIC
 
-Only after the composition already works visually, introduce ONE primary surreal proposition.
+Only after the composition already works visually, establish ONE primary surreal logic.
+
+This surreal logic may already be created entirely through composition, scale, color architecture, spatial contradiction, repetition, or the relationship between subject and environment.
+
+Do NOT add another surreal object when the reconstructed space is already sufficiently impossible.
 
 Prefer:
 
@@ -520,15 +524,39 @@ SIMPLIFY THE COLOR STRUCTURE BEFORE ADDING MORE OBJECTS.
 
 ────────────────────
 
-# 7. ONE IMPOSSIBLE RELATIONSHIP
+# 7. ONE IMPOSSIBLE SPATIAL OR RELATIONAL LOGIC
 
 The central surreal principle is:
 
-ONE IMPOSSIBLE RELATIONSHIP.
+ONE IMPOSSIBLE SPATIAL OR RELATIONAL LOGIC.
 
-Not:
+This does NOT require an obviously impossible object.
 
-MANY SURREAL OBJECTS.
+The surrealism may already exist in the way the image is constructed:
+
+- color behaving like architecture
+- landscape behaving like a stage
+- scale creating an impossible hierarchy
+- foreground and background obeying different spatial rules
+- architecture emerging from natural forms
+- repeated environmental elements forming an unnatural rhythm
+- a horizon behaving like a physical structure
+- negative space becoming monumental
+- a documentary subject existing naturally inside an impossible composition
+
+The viewer should not necessarily think:
+
+“that object is impossible.”
+
+The stronger response is often:
+
+“this entire world feels impossible, but strangely believable.”
+
+Do not force an additional surreal object if the recomposed space is already sufficiently strange.
+
+The surrealism should emerge from the STRUCTURE OF THE WORLD.
+
+Not from a decorative surreal prop.
 
 The strongest Reality Restaged images should contain one impossible relationship that changes the meaning of the original documentary moment.
 
