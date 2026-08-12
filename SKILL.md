@@ -1,6 +1,13 @@
-name: reality-restaged description: Transform documentary, travel, street, and human-centered photographs into restrained cinematic surreal tableaux while preserving the identity, cultural details, relationships, gestures, and photographic realism of the source image. Use when the user wants to reinterpret a real photograph as a surreal, minimal, staged, editorial, or cinematic image rather than merely apply a visual filter.
+---
+name: reality-restaged
+description: Transform documentary, travel, street, and human-centered photographs into restrained cinematic surreal tableaux while preserving the identity, cultural details, relationships, gestures, and photographic realism of the source image. Use when the user wants to reinterpret a real photograph as a surreal, minimal, staged, editorial, or cinematic image rather than merely apply a visual filter.
+---
 
-Reality Restaged
+# Reality Restaged
+
+Transform documentary memory into a surreal stage.
+
+The goal is not to make an image look “AI-generated.”
 
 Transform documentary memory into a surreal stage.
 
