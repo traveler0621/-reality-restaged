@@ -1,9 +1,11 @@
 ---
 name: reality-restaged
-description: Reinterpret documentary, travel, street, cultural, and human-centered photographs through the distinctive Reality Restaged visual language: radically simplified theatrical environments, large saturated color fields, strong negative space, cinematic recomposition, one impossible relationship, monumental scale, and believable analog photographic realism. Preserve the documentary identity of people, animals, gestures, clothing, cultural details, and emotional relationships while rebuilding the world around them.
+description: "Reinterpret documentary, travel, street, cultural, and human-centered photographs through the distinctive Reality Restaged visual language: radically simplified theatrical environments, large saturated color fields, strong negative space, cinematic recomposition, one impossible relationship, monumental scale, and believable analog photographic realism. Preserve the documentary identity of people, animals, gestures, clothing, cultural details, and emotional relationships while rebuilding the world around them."
 ---
 
 # REALITY RESTAGED
+
+Documentary memory. Surreal stage.
 
 Documentary memory. Surreal stage.
 
